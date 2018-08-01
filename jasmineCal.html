@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/2.3.4/jasmine.min.css"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/2.3.4/jasmine-min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/2.3.4/jasmine-html.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/2.3.4/boot.min.js"></script>
+<title> JS Bin</title>
+<script>
+var calculator = function(){
+    return{
+    add.function(a,b){
+        return a + b;
+    },
+    subtract.function(a,b){
+        return a - b;
+    },
+     multiply.function(a,b){
+        return a * b;
+    },
+    divide.function(a,b){
+        return a / b;
+    },
+}
+}
+
+describe('calculatorSuite', function(){
+
+    var calculator = new calculator();
+    it('should add two numbers togethar', function(){
+        expect(calculator.add(5,5).toBe(10));
+    });
+
+    it('should subtract two numbers togethar', function(){
+     expect(calculator.subtract(10,5).toBe(5));
+    });
+
+    it('should multiply two numbers togethar', function(){
+     expect(calculator.multiply(10,5).toBe(50));
+    });
+
+    it('should divde two numbers togethar', function(){
+     expect(calculator.divide(10,5).toBe(2));
+    });
+
+});
+
+</script>
+</head>
+<body></body>
+
+
+</html>
