@@ -1,0 +1,6 @@
+C:\1JOHNSON\Testing\FizzBuzzApp\FizzBuzzLibrary\bin\Debug\FizzBuzzLibrary.dll
+C:\1JOHNSON\Testing\FizzBuzzApp\FizzBuzzLibrary\bin\Debug\FizzBuzzLibrary.pdb
+C:\1JOHNSON\Testing\FizzBuzzApp\FizzBuzzLibrary\obj\Debug\FizzBuzzLibrary.csprojAssemblyReference.cache
+C:\1JOHNSON\Testing\FizzBuzzApp\FizzBuzzLibrary\obj\Debug\FizzBuzzLibrary.csproj.CoreCompileInputs.cache
+C:\1JOHNSON\Testing\FizzBuzzApp\FizzBuzzLibrary\obj\Debug\FizzBuzzLibrary.dll
+C:\1JOHNSON\Testing\FizzBuzzApp\FizzBuzzLibrary\obj\Debug\FizzBuzzLibrary.pdb
