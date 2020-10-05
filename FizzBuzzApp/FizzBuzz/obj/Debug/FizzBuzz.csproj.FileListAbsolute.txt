@@ -5,3 +5,10 @@ C:\1JOHNSON\Testing\FizzBuzzApp\FizzBuzz\bin\Debug\FizzBuzz.exe
 C:\1JOHNSON\Testing\FizzBuzzApp\FizzBuzz\bin\Debug\FizzBuzz.pdb
 C:\1JOHNSON\Testing\FizzBuzzApp\FizzBuzz\obj\Debug\FizzBuzz.exe
 C:\1JOHNSON\Testing\FizzBuzzApp\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\1JOHNSON\Testing\TESTING\FizzBuzzApp\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
+C:\1JOHNSON\Testing\TESTING\FizzBuzzApp\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\1JOHNSON\Testing\TESTING\FizzBuzzApp\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\1JOHNSON\Testing\TESTING\FizzBuzzApp\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\1JOHNSON\Testing\TESTING\FizzBuzzApp\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\1JOHNSON\Testing\TESTING\FizzBuzzApp\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\1JOHNSON\Testing\TESTING\FizzBuzzApp\FizzBuzz\bin\Debug\FizzBuzz.pdb
