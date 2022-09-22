@@ -1,8 +1,8 @@
-How to write your fist test in javascript using Jest -Hindi 
+How to write your fist test in javascript using Jest 
 
 npm install -g yarn
 yarn init
-yarn addjest --dev
+yarn add jest --dev
 
 - add test script in package.json
 "scripts": {
@@ -27,9 +27,9 @@ https://facebook.github.io/jest/docs/en/using-matchers.html
 * toBeFalsy matches anything that an if statement treats as false
 
 NB
- › Press f to run only failed tests.
- › Press o to only run tests related to changed files.
- › Press p to filter by a filename regex pattern.
- › Press t to filter by a test name regex pattern.
- › Press q to quit watch mode.
- › Press Enter to trigger a test run.
+ â€º Press f to run only failed tests.
+ â€º Press o to only run tests related to changed files.
+ â€º Press p to filter by a filename regex pattern.
+ â€º Press t to filter by a test name regex pattern.
+ â€º Press q to quit watch mode.
+ â€º Press Enter to trigger a test run.
